@@ -1,0 +1,14 @@
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\bin\Debug\net8.0\Semaine 4 - Delegate.exe
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\bin\Debug\net8.0\Semaine 4 - Delegate.deps.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\bin\Debug\net8.0\Semaine 4 - Delegate.runtimeconfig.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\bin\Debug\net8.0\Semaine 4 - Delegate.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\bin\Debug\net8.0\Semaine 4 - Delegate.pdb
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\obj\Debug\net8.0\Semaine 4 - Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\obj\Debug\net8.0\Semaine 4 - Delegate.AssemblyInfoInputs.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\obj\Debug\net8.0\Semaine 4 - Delegate.AssemblyInfo.cs
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\obj\Debug\net8.0\Semaine 4 - Delegate.csproj.CoreCompileInputs.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\obj\Debug\net8.0\Semaine 4 - Delegate.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\obj\Debug\net8.0\refint\Semaine 4 - Delegate.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\obj\Debug\net8.0\Semaine 4 - Delegate.pdb
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\obj\Debug\net8.0\Semaine 4 - Delegate.genruntimeconfig.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 4 - Delegate\obj\Debug\net8.0\ref\Semaine 4 - Delegate.dll

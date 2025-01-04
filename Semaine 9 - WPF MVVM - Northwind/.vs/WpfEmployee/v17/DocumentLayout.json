@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 9 - wpf mvvm - northwind\\viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 9 - wpf mvvm - northwind\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 9 - wpf mvvm - northwind\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 9 - wpf mvvm - northwind\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:31:02.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\ViewModels\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeModel.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\ViewModels\\EmployeeModel.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:06:26.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Models\\NorthwindContext.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "Models\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:04:17.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T15:00:32.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 9 - WPF MVVM - Northwind\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:00:32.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

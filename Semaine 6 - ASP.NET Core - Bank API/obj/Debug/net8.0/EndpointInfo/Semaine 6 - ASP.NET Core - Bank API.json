@@ -1,0 +1,49 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Semaine 6 - ASP.NET Core - Bank API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/calculatetva": {
+      "get": {
+        "tags": [
+          "Semaine 6 - ASP.NET Core - Bank API"
+        ],
+        "operationId": "CalculateTVA",
+        "parameters": [
+          {
+            "name": "productPrice",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "format": "double"
+            }
+          },
+          {
+            "name": "countryCode",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

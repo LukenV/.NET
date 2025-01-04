@@ -1,0 +1,6 @@
+@Semaine_6___ASP.NET_Core___Students_API_Controllers_HostAddress = http://localhost:5078
+
+GET {{Semaine_6___ASP.NET_Core___Students_API_Controllers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

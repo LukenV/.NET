@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C612D5-1ABE-43C6-9B33-231A618B6BA7}|Semaine 3 - LINQ EF.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 3 - linq ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C612D5-1ABE-43C6-9B33-231A618B6BA7}|Semaine 3 - LINQ EF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C612D5-1ABE-43C6-9B33-231A618B6BA7}|Semaine 3 - LINQ EF.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 3 - linq ef\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C612D5-1ABE-43C6-9B33-231A618B6BA7}|Semaine 3 - LINQ EF.csproj|solutionrelative:models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C612D5-1ABE-43C6-9B33-231A618B6BA7}|Semaine 3 - LINQ EF.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 3 - linq ef\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C612D5-1ABE-43C6-9B33-231A618B6BA7}|Semaine 3 - LINQ EF.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C612D5-1ABE-43C6-9B33-231A618B6BA7}|Semaine 3 - LINQ EF.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 3 - linq ef\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C612D5-1ABE-43C6-9B33-231A618B6BA7}|Semaine 3 - LINQ EF.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C612D5-1ABE-43C6-9B33-231A618B6BA7}|Semaine 3 - LINQ EF.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 3 - linq ef\\models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C612D5-1ABE-43C6-9B33-231A618B6BA7}|Semaine 3 - LINQ EF.csproj|solutionrelative:models\\territory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:41:04.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Territory.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\Models\\Territory.cs",
+              "RelativeDocumentMoniker": "Models\\Territory.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\Models\\Territory.cs",
+              "RelativeToolTip": "Models\\Territory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:28:06.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T14:11:04.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Models\\NorthwindContext.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "Models\\NorthwindContext.cs",
+              "ViewState": "AgIAAOcBAAAAAAAAAAAYwPoBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:24:16.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 3 - LINQ EF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:05:06.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "Semaine_6___ASP.NET_Core___Students_API_Controllers.Controllers.StudentsController",
+    "Method": "GetStudents",
+    "RelativePath": "Students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IList\u00601[[Semaine_6___ASP.NET_Core___Students_API_Controllers.Models.Student, Semaine 6 - ASP.NET Core - Students API Controllers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Semaine_6___ASP.NET_Core___Students_API_Controllers.Controllers.StudentsController",
+    "Method": "GetOneStudent",
+    "RelativePath": "Students/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Semaine_6___ASP.NET_Core___Students_API_Controllers.Models.Student",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

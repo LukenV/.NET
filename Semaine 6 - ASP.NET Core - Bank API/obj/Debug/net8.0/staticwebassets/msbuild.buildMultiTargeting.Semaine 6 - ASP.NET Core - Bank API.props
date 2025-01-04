@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Semaine 6 - ASP.NET Core - Bank API.props" />
+</Project>

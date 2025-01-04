@@ -1,0 +1,6 @@
+@Semaine_7___Recap_async_await___Northwind_API_HostAddress = http://localhost:5122
+
+GET {{Semaine_7___Recap_async_await___Northwind_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

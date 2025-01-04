@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 10 - wpf mvvm notifications command - northwind\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 10 - wpf mvvm notifications command - northwind\\viewmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 10 - wpf mvvm notifications command - northwind\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 10 - wpf mvvm notifications command - northwind\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 10 - wpf mvvm notifications command - northwind\\viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8EC71F-5E53-4309-9B60-762CEA2770FB}|WpfEmployee.csproj|solutionrelative:viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:15:49.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\ViewModels\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeModel.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\ViewModels\\EmployeeModel.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:12:24.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\ViewModels\\OrderModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OrderModel.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\ViewModels\\OrderModel.cs",
+              "RelativeToolTip": "ViewModels\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:12:20.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T18:07:36.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 10 - WPF MVVM Notifications Command - Northwind\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:31:02.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

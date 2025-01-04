@@ -1,0 +1,36 @@
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\appsettings.Development.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\appsettings.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.staticwebassets.endpoints.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.exe
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.deps.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.runtimeconfig.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.pdb
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.csproj.AssemblyReference.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.AssemblyInfoInputs.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.AssemblyInfo.cs
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.csproj.CoreCompileInputs.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\scopedcss\bundle\Semaine 6 - ASP.NET Core - Students API Controllers.styles.css
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\staticwebassets.build.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\staticwebassets.development.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\staticwebassets\msbuild.Semaine 6 - ASP.NET Core - Students API Controllers.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\staticwebassets\msbuild.Semaine 6 - ASP.NET Core - Students API Controllers.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\staticwebassets\msbuild.build.Semaine 6 - ASP.NET Core - Students API Controllers.props
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Semaine 6 - ASP.NET Core - Students API Controllers.props
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Semaine 6 - ASP.NET Core - Students API Controllers.props
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine .8032674D.Up2Date
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\refint\Semaine 6 - ASP.NET Core - Students API Controllers.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.pdb
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\Semaine 6 - ASP.NET Core - Students API Controllers.genruntimeconfig.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 6 - ASP.NET Core - Students API Controllers\obj\Debug\net8.0\ref\Semaine 6 - ASP.NET Core - Students API Controllers.dll

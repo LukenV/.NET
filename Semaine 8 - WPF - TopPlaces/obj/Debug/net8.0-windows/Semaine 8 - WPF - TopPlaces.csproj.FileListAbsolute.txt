@@ -1,0 +1,27 @@
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.exe
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.deps.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.runtimeconfig.json
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.pdb
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\App.g.cs
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces_MarkupCompile.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces_MarkupCompile.lref
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.g.resources
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.AssemblyInfoInputs.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.AssemblyInfo.cs
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.csproj.CoreCompileInputs.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\refint\Semaine 8 - WPF - TopPlaces.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.pdb
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\Semaine 8 - WPF - TopPlaces.genruntimeconfig.cache
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\obj\Debug\net8.0-windows\ref\Semaine 8 - WPF - TopPlaces.dll
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\photos\bruxelles.jpg
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\photos\berlin.jpg
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\photos\moscou.jpg
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\photos\newyork.jpg
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\photos\paris.jpg
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\photos\jaime.png
+D:\Documents\Blocus\PROGRAM AVANCE\.NET\Workspace\Semaine 8 - WPF - TopPlaces\bin\Debug\net8.0-windows\photos\amsterdam.jpg

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Semaine 7 - Recap async await - Northwind API.props" />
+</Project>

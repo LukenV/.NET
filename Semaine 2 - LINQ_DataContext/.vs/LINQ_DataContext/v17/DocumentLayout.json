@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6CB02A-62BA-4146-9173-D457C868390C}|..\\LINQ\\LINQ.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 2 - linq_datacontext\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 2 - linq_datacontext\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 2 - linq_datacontext\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 2 - linq_datacontext\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 2 - linq_datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\semaine 2 - linq_datacontext\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9E05C2-280B-41CE-9864-19B2C3211752}|LINQ_DataContext.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LINQ\\Program.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\LINQ\\Program.cs",
+              "RelativeToolTip": "..\\LINQ\\Program.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAkwLQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:14:06.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\Grade.cs",
+              "RelativeDocumentMoniker": "Grade.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\Grade.cs",
+              "RelativeToolTip": "Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:12:13.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:12:13.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Section.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\Section.cs",
+              "RelativeDocumentMoniker": "Section.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\Section.cs",
+              "RelativeToolTip": "Section.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:12:13.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\Professor.cs",
+              "RelativeDocumentMoniker": "Professor.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\Professor.cs",
+              "RelativeToolTip": "Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:12:13.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\DataContext.cs",
+              "RelativeDocumentMoniker": "DataContext.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\DataContext.cs",
+              "RelativeToolTip": "DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:12:13.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\Semaine 2 - LINQ_DataContext\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T11:12:13.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

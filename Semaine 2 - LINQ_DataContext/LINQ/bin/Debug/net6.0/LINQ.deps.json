@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LINQ/1.0.0": {
+        "dependencies": {
+          "LINQ_DataContext": "1.0.0"
+        },
+        "runtime": {
+          "LINQ.dll": {}
+        }
+      },
+      "LINQ_DataContext/1.0.0": {
+        "runtime": {
+          "LINQ_DataContext.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQ_DataContext/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+﻿<Application x:Class="Semaine_8___WPF___TopPlaces.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Semaine_8___WPF___TopPlaces"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

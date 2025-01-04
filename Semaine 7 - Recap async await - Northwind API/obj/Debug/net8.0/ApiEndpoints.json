@@ -1,0 +1,213 @@
+[
+  {
+    "ContainingType": "Semaine_7___Recap_async_await___Northwind_API.Controllers.EmployeesController",
+    "Method": "GetAllEmployees",
+    "RelativePath": "Employees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IList\u00601[[Semaine_7___Recap_async_await___Northwind_API.Models.EmployeeDTO, Semaine 7 - Recap async await - Northwind API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Semaine_7___Recap_async_await___Northwind_API.Controllers.EmployeesController",
+    "Method": "CreateOneEmployee",
+    "RelativePath": "Employees",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeDTO",
+        "Type": "Semaine_7___Recap_async_await___Northwind_API.Models.EmployeeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Semaine_7___Recap_async_await___Northwind_API.Controllers.EmployeesController",
+    "Method": "UpdateOneEmployee",
+    "RelativePath": "Employees",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeDTO",
+        "Type": "Semaine_7___Recap_async_await___Northwind_API.Models.EmployeeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Semaine_7___Recap_async_await___Northwind_API.Controllers.EmployeesController",
+    "Method": "GetOneEmployee",
+    "RelativePath": "Employees/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Semaine_7___Recap_async_await___Northwind_API.Models.EmployeeDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Semaine_7___Recap_async_await___Northwind_API.Controllers.EmployeesController",
+    "Method": "DeleteOneEmployee",
+    "RelativePath": "Employees/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Semaine_7___Recap_async_await___Northwind_API.Controllers.OrdersController",
+    "Method": "GetAllOrders",
+    "RelativePath": "Orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IList\u00601[[Semaine_7___Recap_async_await___Northwind_API.Models.OrderDTO, Semaine 7 - Recap async await - Northwind API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Semaine_7___Recap_async_await___Northwind_API.Controllers.OrdersController",
+    "Method": "CreateOneOrder",
+    "RelativePath": "Orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderDTO",
+        "Type": "Semaine_7___Recap_async_await___Northwind_API.Models.OrderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Semaine_7___Recap_async_await___Northwind_API.Controllers.OrdersController",
+    "Method": "UpdateOneOrder",
+    "RelativePath": "Orders",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderDTO",
+        "Type": "Semaine_7___Recap_async_await___Northwind_API.Models.OrderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Semaine_7___Recap_async_await___Northwind_API.Controllers.OrdersController",
+    "Method": "GetOneOrder",
+    "RelativePath": "Orders/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Semaine_7___Recap_async_await___Northwind_API.Models.OrderDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
