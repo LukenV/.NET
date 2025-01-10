@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\examen-septembre-2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0649216B-6641-447A-B54B-6745B0A6C263}|examen-septembre-2022.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\examen-septembre-2022\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0649216B-6641-447A-B54B-6745B0A6C263}|examen-septembre-2022.csproj|solutionrelative:viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0649216B-6641-447A-B54B-6745B0A6C263}|examen-septembre-2022.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\examen-septembre-2022\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0649216B-6641-447A-B54B-6745B0A6C263}|examen-septembre-2022.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0649216B-6641-447A-B54B-6745B0A6C263}|examen-septembre-2022.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\examen-septembre-2022\\viewmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0649216B-6641-447A-B54B-6745B0A6C263}|examen-septembre-2022.csproj|solutionrelative:viewmodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0649216B-6641-447A-B54B-6745B0A6C263}|examen-septembre-2022.csproj|d:\\documents\\blocus\\program avance\\.net\\workspace\\examen-septembre-2022\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0649216B-6641-447A-B54B-6745B0A6C263}|examen-septembre-2022.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\examen-septembre-2022\\ViewModels\\OrderModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OrderModel.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\examen-septembre-2022\\ViewModels\\OrderModel.cs",
+              "RelativeToolTip": "ViewModels\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T01:48:28.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\examen-septembre-2022\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\examen-septembre-2022\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T00:59:20.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\examen-septembre-2022\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\examen-septembre-2022\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:59:06.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsViewModel.cs",
+              "DocumentMoniker": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\examen-septembre-2022\\ViewModels\\ProductsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductsViewModel.cs",
+              "ToolTip": "D:\\Documents\\Blocus\\PROGRAM AVANCE\\.NET\\Workspace\\examen-septembre-2022\\ViewModels\\ProductsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductsViewModel.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwD4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:51:11.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
